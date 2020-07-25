@@ -3,7 +3,7 @@ Implements ERC20 token standard: https://github.com/ethereum/EIPs/blob/master/EI
 .*/
 
 
-pragma solidity ^0.5.16;
+pragma solidity >=0.5.15;
 
 import "./IERC20.sol";
 
